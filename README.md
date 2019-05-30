@@ -10,3 +10,7 @@ AJAX CRUD Tutorial Using jQuery, JSON and PHP – Step by Step Guide!
 reference url: https://www.codeofaninja.com/2015/06/php-crud-with-ajax-and-oop.html
 
 appUrl : http://localhost/php/api/app/
+
+React CRUD Tutorial – JavaScript Programming – Step By Step Guide!
+
+reference url: https://www.codeofaninja.com/2016/07/react-crud-tutorial.html
