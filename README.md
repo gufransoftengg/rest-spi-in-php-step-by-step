@@ -8,3 +8,5 @@ reference url: https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-ph
 AJAX CRUD Tutorial Using jQuery, JSON and PHP – Step by Step Guide!
 
 reference url: https://www.codeofaninja.com/2015/06/php-crud-with-ajax-and-oop.html
+
+appUrl : http://localhost/php/api/app/
